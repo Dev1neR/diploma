@@ -1,6 +1,7 @@
 #https://www.raspberrypi.org/forums/viewtopic.php?t=253184
 import time
 import pygame
+import math
 
 from adafruit_servokit import ServoKit
 from mpu6050 import mpu6050
